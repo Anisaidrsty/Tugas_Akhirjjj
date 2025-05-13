@@ -27,7 +27,8 @@ dependencies {
     implementation 'org.slf4j:slf4j-simple:2.0.7'
     testImplementation 'net.masterthought:cucumber-reporting:5.7.7'
 
-    testImplementSation 'org.json:json:20210307'
+// https://mvnrepository.com/artifact/org.json/json
+    implementation 'org.json:json:20250107'
     testImplementation 'com.google.code.gson:gson:2.10.1'
     testImplementation 'io.github.bonigarcia:webdrivermanager:5.8.0'
 
