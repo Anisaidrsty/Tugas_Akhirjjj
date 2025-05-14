@@ -31,7 +31,6 @@ dependencies {
     implementation 'org.json:json:20250107'
     testImplementation 'com.google.code.gson:gson:2.10.1'
     testImplementation 'io.github.bonigarcia:webdrivermanager:5.8.0'
-
 }
 
 test {
