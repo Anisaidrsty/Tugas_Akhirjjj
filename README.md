@@ -1,4 +1,4 @@
-Tugas Akhir - Aplikasi Web
+## Tugas Akhir - Aplikasi Web
 Repositori ini merupakan bagian dari tugas akhir yang dikembangkan menggunakan teknologi web. Proyek ini bertujuan untuk membangun sebuah aplikasi web dengan menggunakan HTML, Java, dan Gherkin.
 
 Fitur
@@ -8,7 +8,7 @@ Fitur
 
 - Organisasi Kode: Terdapat folder src untuk sumber kode utama, serta folder konfigurasi seperti .github, .idea, dan .vscode.
 
-0 Automasi dan Konfigurasi: Disediakan file build.gradle, settings.gradle, dan gradle.properties untuk pengaturan proyek.
+- Automasi dan Konfigurasi: Disediakan file build.gradle, settings.gradle, dan gradle.properties untuk pengaturan proyek.
 
 Tools dan Library yang Digunakan
 - Java – Bahasa backend utama yang digunakan.
